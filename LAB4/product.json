@@ -1,0 +1,94 @@
+[
+    {
+        "name" : "iphone 13",
+        "type" : "Iphone",
+        "price" : "$900",
+        "contents" : "Apple Iphone 13",
+        "img" : "images/iphone13.png"
+    },
+    {
+        "name" : "iphone 13 pro",
+        "type" : "Iphone",
+        "price" : "$1000",
+        "contents" : "Apple Iphone 13 Pro",
+        "img" : "images/iphone13pro.png"
+    },
+    {
+        "name" : "iphone 14 plus",
+        "type" : "Iphone",
+        "price" : "$1050",
+        "contents" : "Apple Iphone 14 Plus",
+        "img" : "images/iphone14plus.png"
+    },
+    {
+        "name" : "iphone 14 pro",
+        "type" : "Iphone",
+        "price" : "$1160",
+        "contents" : "Apple Iphone 14 Pro",
+        "img" : "images/iphone14pro.png"
+    },
+    {
+        "name" : "mac",
+        "type" : "Mac",
+        "price" : "$1113",
+        "priceint" : "1113",
+        "contents" : "Apple mac",
+        "img" : "images/mac.png"
+    },
+    {
+        "name" : "macbook",
+        "type" : "Macbook",
+        "price" : "$1360",
+        "priceint" : "1360",
+        "contents" : "Apple macbook",
+        "img" : "images/macbook.png"
+    },
+    {
+        "name" : "macbook air m1",
+        "type" : "Macbook",
+        "price" : "$1460",
+        "priceint" : "1460",
+        "contents" : "Apple macbook air M1",
+        "img" : "images/macbookairm1.png"
+    },
+    {
+        "name" : "macbook air m2",
+        "type" : "Macbook",
+        "price" : "$1660",
+        "priceint" : "1660",
+        "contents" : "Apple macbook air M2",
+        "img" : "images/macbookairm2.png"
+    },
+    {
+        "name" : "retina",
+        "type" : "Mac",
+        "price" : "$7000",
+        "priceint" : "7000",
+        "contents" : "Apple Retina Display",
+        "img" : "images/retina.png"
+    },
+    {
+        "name" : "watch",
+        "type" : "Watch",
+        "price" : "$300",
+        "priceint" : "300",
+        "contents" : "Apple Watch",
+        "img" : " images/watch.png"
+    },
+    {
+        "name" : "watch se",
+        "type" : "Watch",
+        "price" : "$250",
+        "priceint" : "250",
+        "contents" : "Apple Watch SE",
+        "img" : "images/watchse.png"
+    },
+    {
+        "name" : "watch ultra",
+        "type" : "Watch",
+        "price" : "$850",
+        "priceint" : "850",
+        "contents" : "Apple Watch Ultra",
+        "img" : "images/watchultra.png"
+    }   
+]

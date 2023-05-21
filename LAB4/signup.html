@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type = "text/css" href="main.css">
+    <head>
+        <meta charset = "UTF-8">
+
+        <h1> Internet-Programming Shop </h1>
+
+    </head>
+
+    <body>
+        <nav>
+            <ul>
+                <li><a class = "current" href = "index.html">Main page</a></li>
+                <li><a href = "login.html">login</a></li>
+                <li><a href = "signup.html">SignUp</a></li>
+            </ul>
+        </nav>
+        <form>
+            <p id = "align" class = "bground">Personal Information(Reqired)<br>
+
+                <label>Name : <input name = "name" type = "name" 
+                    placeholder = "Enter your name" autofocus>
+                </label><br>
+
+                <label>Gender : 
+                    <input name = "gender" type = "radio" value = "male" checked>Male
+                    <input name = "gender" type = "radio" value = "female">Female
+                </label><br>
+
+                <label>Birth Date : <input name = "date" type = "date" value = '2023-04-03' required/>
+                </label><br>
+
+                <label>Grade : 
+                    <input name = "grade" type = "checkbox" value = "1"> 1st
+                    <input name = "grade" type = "checkbox" value = "2"> 2nd
+                    <input name = "grade" type = "checkbox" value = "3"> 3rd
+                    <input name = "grade" type = "checkbox" value = "4"> 4th
+                </label><br>
+                
+                <label>How long would you use this page(Year)
+                    <input name  = "peroid" type = "number" min = "1" max = "30" step = "1">
+                </label><br>
+                <label>Tel : <input name = "tel" type = "tel"
+                    placeholder = "(###)###-####">
+                </label><br>
+                <label>User ID : <input name = "id" type = "id"
+                    placeholder= "Enter ID" autocomplete = "on">
+                </label><br>
+                <label>Passwrod : <input name = "password" type = "password"
+                    placeholder= "Enter Password">
+                </label><br>
+                <label>Confirm Password : <input name = "id" type = "id"
+                    placeholder= "Confirm Password">
+                </label><br>
+            </p>
+            <p id = "align">
+                <input id = "submit" type = "submit" value = "SignUp">
+                <input id = "reset" type = "reset" value = "Cancel"> 
+            </p>
+        </form>
+
+
+    </body>
+</html>
